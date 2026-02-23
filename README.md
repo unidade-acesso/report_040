@@ -6,16 +6,16 @@ owner: "WireMaze"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# PRR - WireMaze - Pack 20
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 30/12/2025
+- URL: https://www.cm-braganca.pt/, https://www.cm-guimaraes.pt/, https://www.municipio.esposende.pt/, https://www.cmav.pt/, https://www.cm-matosinhos.pt/, https://www.regiaodeaveiro.pt/, https://valpacos.pt/, https://www.sabrosa.pt/, https://www.cm-albergaria.pt/, https://www.cm-caminha.pt/, https://www.cm-peniche.pt/, https://www.cm-pesoregua.pt/, https://www.cm-pombal.pt/, https://www.cm-montalegre.pt/, https://www.cm-agueda.pt/, https://www.cm-satao.pt/, https://www.cm-ilhavo.pt/, https://www.cm-olb.pt/, https://www.cm-vagos.pt/, https://www.cm-valongo.pt/
+- Propriedade: PRR - WireMaze - Pack 20
+- Candidatura: Ouro
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
