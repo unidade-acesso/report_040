@@ -19,7 +19,7 @@ Consulte aqui a última atualização: [Relatório do PRR - WireMaze - Pack 20](
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="23022026_report.html">(30/12/2025). Relatório do PRR - WireMaze - Pack 20</a></li>
+    <li><a href="23022026_report.html">(23/02/2026). Relatório do PRR - WireMaze - Pack 20</a></li>
   </ul>
 </details>
 
